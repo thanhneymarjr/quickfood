@@ -60,6 +60,7 @@
     "slick-carousel": "^1.8.1"
   },
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react-bootstrap-validation": "^0.1.11",
     "redux-thunk": "^2.3.0",
     "sweetalert2": "^11.1.4"
